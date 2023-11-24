@@ -17,7 +17,7 @@ public class Main {
             double root = -b / (2 * a);
             System.out.println("Root: " + root);
         } else {
-            System.out.println("No real roots. Discriminant is negative.");
+            System.out.println("No real roots. Discriminant is Negative.");
         }
 
         scanner.close();
