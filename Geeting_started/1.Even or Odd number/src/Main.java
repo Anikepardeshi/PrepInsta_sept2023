@@ -7,7 +7,7 @@ public class Main {
 		if (number % 2 == 0) {
 			System.out.println(number + " is evEn");
 		} else {
-			System.out.println(number + " is Odd");
+			System.out.println(number + " is ODd");
 		}
 	}
 }
